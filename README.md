@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=MNn9qKG2UFI&list=PLcQZGj9lFR7y5WikozDSrdk6UCtAnM
 Code  
 https://github.com/freedomwebtech/livecctvvehiclecountingyolov8  
 Video  
-[Mid-Result: https://www.youtube.com/watch?v=eAjO0wlmNL0](https://www.youtube.com/watch?v=eAjO0wlmNL0)
+Mid-Result:[https://www.youtube.com/watch?v=eAjO0wlmNL0](https://www.youtube.com/watch?v=eAjO0wlmNL0)
